@@ -21,4 +21,4 @@ I did a comparison on varoous machine learning algorithms, specifically: *K-Near
 
 To view a run of the code, run ``` On Planetary Habitability.ipynb ```
 
-To view the report on the project, open ``` On Planetary Habitability.pdf ```
+To view the report on the project, open ``` AI-Project.pdf ```
